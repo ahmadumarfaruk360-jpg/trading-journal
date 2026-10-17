@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Deriv Synthetics Trading Journal",
+  "description": "Comprehensive trade journaling, performance analytics, and screenshot tracking exclusively tailored for Deriv Synthetic Indices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
